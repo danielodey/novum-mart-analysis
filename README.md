@@ -19,5 +19,65 @@ The analysis is based on a consolidated dataset of approximately 49,000 transact
 ## Data Preview
 ![data-preview](data_preview.PNG)
 
+## Key Findings
+- Average annual sales are approximately $10M.
+- Annual sales have shown a consistent increase, except in 2022, when there was a 1.63% decline.
+- Products in the Accessories category contribute significantly more to sales than other categories.
+- Customer preference for payment methods is balanced, with nearly equal distribution among Credit Card, Bank Transfer, and PayPal.
+
+## Dashboard
+![dashboard](dashboard.PNG)
+
+## Link to Power BI Report
+Click the link to access the full Power BI report: [Click here](https://app.powerbi.com/view?r=eyJrIjoiYThhYWUxYjItYjRmOC00OWU4LTliMGEtNzRiMGE1ZTFmNDdmIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
+
+## Data Cleaning and Transformation
+- Removed duplicate entries from the Invoice No column.
+- Identified and removed approximately 3,000 null values from the Warehouse Location column.
+- Corrected and standardized the Product Category column.
+- Standardized the Payment Method column by renaming “paypall” to “PayPal.”
+- Calculated new SalesAmount and PaymentAmount columns.
+
+## Detailed Findings & Analysis
+### Key Performance Indicators (YoY Change)
+- Total sales exceeded $56M during the review period.
+- Average annual sales are approximately $10M.
+- Sales declined by 1.63% in 2022 compared to 2021.
+- The return rate, which increased by 6.97% in 2023, has since declined consistently, reaching -1.21% as of September 2025.
+
+### Sales Distribution by Product Category
+- Accessories consistently outsell all other categories. In 2025, sales reached $1.8M, exceeding Stationery by $600,000.
+- Apparel, Utensils, Furniture, and Luggage contribute similar sales, ranging from $600K to $650K in 2025.
+
+### Sales Amount by Payment Method
+- Customer payment preferences are closely balanced: Credit Card (32.34%), Bank Transfer (34.08%), and PayPal (33.68%).
+- This pattern has remained consistent year over year, showing no significant dominance of one payment method.
+
+### Monthly Sales Trend
+- In-store and online sales trends vary across years.
+- In 2022 and 2023, in-store sales dipped in April and peaked in October.
+- In 2024, the pattern reversed, peaking in April and dipping in October.
+- In 2025, both channels have moved in the same direction with minimal variation.
+- Overall, there is no consistent, predictable pattern between the two sales channels.
+
+### Sales by Country
+- Sales across countries are closely aligned, with no significant outliers.
+- In 2025, Norway recorded the highest sales ($637K), followed by the UK ($630K). Australia recorded the lowest at $471K.
+- This pattern of closely clustered sales values has remained consistent over the years.
+
+## Recommendations
+- Continue implementing policies introduced in 2024, which have successfully reduced the high return rate recorded in 2023.
+- Promote products in Apparel, Utensils, Furniture, and Luggage categories, as they consistently underperform compared to others. Increased promotions and visibility will be beneficial.
+- Expand efforts in the US market, where performance has remained relatively flat over the past five years. Greater awareness and presence in this market could significantly boost sales.
+
+## Tools Used
+- **Power Query:** Data cleaning and transformation
+- **Power BI:** Data analysis and visualization
+
+## Conclusion
+NovumMart has maintained steady sales growth from 2020–2025, with strong contributions from the Accessories category and balanced customer preferences across payment methods. While return rates have improved since 2023, underperforming product categories and the untapped potential in the US market present clear opportunities for growth. Strengthening these areas will position NovumMart for sustained performance in the years ahead.
+
+
+
 
 
