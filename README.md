@@ -13,4 +13,11 @@ This report addresses the following key questions:
 - Which product categories and geographical locations are driving sales, and which are lagging?
 - What are the preferred payment channels for customers?
 
+## Data Overview
+The analysis is based on a consolidated dataset of approximately 49,000 transactions and 16 columns, covering January 2020 to September 2025. It represents customer orders across all current operating locations.
+
+## Data Preview
+![data-preview](data_preview.PNG)
+
+
 
