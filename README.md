@@ -55,9 +55,9 @@ Click the link to access the full Power BI report: [Click here](https://app.powe
 
 ### Monthly Sales Trend
 - In-store and online sales trends vary across years.
-- In 2022 and 2023, in-store sales dipped in April and peaked in October.
-- In 2024, the pattern reversed, peaking in April and dipping in October.
-- In 2025, both channels have moved in the same direction with minimal variation.
+  * In 2022 and 2023, in-store sales dipped in April and peaked in October.
+  * In 2024, the pattern reversed, peaking in April and dipping in October.
+  * In 2025, both channels have moved in the same direction with minimal variation.
 - Overall, there is no consistent, predictable pattern between the two sales channels.
 
 ### Sales by Country
